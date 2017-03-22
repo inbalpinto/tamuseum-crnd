@@ -1,11 +1,9 @@
-# FireShell
-# http://getfireshell.com
-# @author Todd Motto
+# tamuseum-crnd
+# http://tamuseum-crnd.com
+# @author Inbal Pinto
 
 node_modules
 .DS_Store
 .tmp
 .sass-cache
-style.min.css
-scripts.min.js
 .idea
