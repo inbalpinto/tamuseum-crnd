@@ -448,6 +448,10 @@ body {
 .main .header .tamuseum-container {
   float: left;
   height: 100%;
+}
+.main .header .tamuseum-container .tamuseum-link {
+  color: initial;
+  text-decoration: none;
   display: flex;
   justify-content: center;
 }

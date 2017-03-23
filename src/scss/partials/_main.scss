@@ -14,8 +14,15 @@
     .tamuseum-container {
       float: left;
       height: 100%;
-      display: flex;
-      justify-content: center;
+      //display: flex;
+      //justify-content: center;
+
+      .tamuseum-link {
+        color: initial;
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+      }
 
       .tamuseum-logo {
         width: 70px;
